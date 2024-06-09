@@ -9,9 +9,13 @@
   "author": "PixelPasta",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^3.1.6",
-    "express": "^4.17.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "i": "^0.3.7",
     "node-fetch": "^2.6.7",
-    "request": "^2.88.2"
+    "npm": "^10.8.1",
+    "pexels": "^1.4.0",
+    "request": "^2.88.2",
+    "snoowrap": "^1.23.0"
   }
 }
